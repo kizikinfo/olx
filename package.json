@@ -1,0 +1,16 @@
+{
+  "name": "botapp",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bereket Yeleussinov <berekettaz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.1",
+    "express-http-proxy": "^1.1.0",
+    "fast-html-parser": "^1.0.1"
+  }
+}
